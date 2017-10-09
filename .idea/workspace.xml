@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a07f89f8-b362-4583-9129-f06fba9cec2a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-1-flexbox/1-intro-floats/begin/css/floats.css" afterPath="$PROJECT_DIR$/day-1-flexbox/1-intro-floats/begin/css/floats.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-1-flexbox/1-intro-floats/begin/floats.html" afterPath="$PROJECT_DIR$/day-1-flexbox/1-intro-floats/begin/floats.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-1-flexbox/2-flexbox-intro/css/boxes.css" afterPath="$PROJECT_DIR$/day-1-flexbox/2-flexbox-intro/css/boxes.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +12,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="boxes.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-1-flexbox/2-flexbox-intro/boxes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boxes.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day-1-flexbox/2-flexbox-intro/css/boxes.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +43,7 @@
       <list>
         <option value="$PROJECT_DIR$/day-1-flexbox/1-intro-floats/begin/floats.html" />
         <option value="$PROJECT_DIR$/day-1-flexbox/1-intro-floats/begin/css/floats.css" />
+        <option value="$PROJECT_DIR$/day-1-flexbox/2-flexbox-intro/css/boxes.css" />
       </list>
     </option>
   </component>
@@ -69,37 +90,7 @@
               <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
               <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
               <item name="day-1-flexbox" type="462c0819:PsiDirectoryNode" />
-              <item name="1-intro-floats" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
-              <item name="day-1-flexbox" type="462c0819:PsiDirectoryNode" />
-              <item name="1-intro-floats" type="462c0819:PsiDirectoryNode" />
-              <item name="begin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
-              <item name="day-1-flexbox" type="462c0819:PsiDirectoryNode" />
-              <item name="1-intro-floats" type="462c0819:PsiDirectoryNode" />
-              <item name="begin" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
-              <item name="day-1-flexbox" type="462c0819:PsiDirectoryNode" />
-              <item name="1-intro-floats" type="462c0819:PsiDirectoryNode" />
-              <item name="end" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
-              <item name="day-1-flexbox" type="462c0819:PsiDirectoryNode" />
-              <item name="1-intro-floats" type="462c0819:PsiDirectoryNode" />
-              <item name="end" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="3-flexbox-grid" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507563428304</updated>
-      <workItem from="1507563429643" duration="1762000" />
+      <workItem from="1507563429643" duration="2476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1762000" />
+    <option name="totallyTimeSpent" value="2476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="304" y="23" width="1376" height="1027" extended-state="0" />
@@ -216,6 +207,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-1-flexbox/2-flexbox-intro/boxes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-1-flexbox/2-flexbox-intro/css/boxes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding />
         </state>
       </provider>

@@ -1,0 +1,23 @@
+@media (min-width: 1px) {
+    .bkgdimg {
+        background: url(img/mom-300.jpg) no-repeat;
+        /* Must set a height, otherwise it won't show up */
+        height: 50px;
+    }
+}
+
+@media (min-width: 500px) {
+    .bkgdimg {
+        background: url(img/mom-767.jpg) no-repeat;
+        /* Must set a height, otherwise it won't show up */
+        height: 128px;
+    }
+}
+
+@media (min-width: 1000px) {
+    .bkgdimg {
+        background: url(img/mom-1200.jpg) no-repeat;
+        /* Must set a height, otherwise it won't show up */
+        height: 200px;
+    }
+}

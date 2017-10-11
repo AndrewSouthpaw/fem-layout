@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a07f89f8-b362-4583-9129-f06fba9cec2a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.css" afterPath="$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.html" afterPath="$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-2-grid/14-grid-offsets/begin/offsets.css" afterPath="$PROJECT_DIR$/day-2-grid/14-grid-offsets/begin/offsets.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-2-grid/15-pie-grid-you-try-it/begin/css/styles.css" afterPath="$PROJECT_DIR$/day-2-grid/15-pie-grid-you-try-it/begin/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-2-grid/15-pie-grid-you-try-it/begin/history.html" afterPath="$PROJECT_DIR$/day-2-grid/15-pie-grid-you-try-it/begin/history.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,21 +15,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="nesting.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.css">
+      <file leaf-file-name="history.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-2-grid/15-pie-grid-you-try-it/begin/history.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="55" column="45" lean-forward="false" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+            <state relative-caret-position="290">
+              <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nesting.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.html">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-2-grid/15-pie-grid-you-try-it/begin/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            <state relative-caret-position="704">
+              <caret line="266" column="13" lean-forward="false" selection-start-line="266" selection-start-column="13" selection-end-line="266" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image-exercise.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day-1-flexbox/6-responsive-images/begin/image-exercise.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="18" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -45,6 +56,7 @@
       <find>float</find>
       <find>1200</find>
       <find>grid-areas</find>
+      <find>aside</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -70,6 +82,9 @@
         <option value="$PROJECT_DIR$/day-2-grid/12-grid-area/begin/grid-area.css" />
         <option value="$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.html" />
         <option value="$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.css" />
+        <option value="$PROJECT_DIR$/day-2-grid/14-grid-offsets/begin/offsets.css" />
+        <option value="$PROJECT_DIR$/day-2-grid/15-pie-grid-you-try-it/begin/history.html" />
+        <option value="$PROJECT_DIR$/day-2-grid/15-pie-grid-you-try-it/begin/css/styles.css" />
       </list>
     </option>
   </component>
@@ -113,6 +128,24 @@
             <path>
               <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
               <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
+              <item name="day-1-flexbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
+              <item name="day-1-flexbox" type="462c0819:PsiDirectoryNode" />
+              <item name="6-responsive-images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
+              <item name="day-1-flexbox" type="462c0819:PsiDirectoryNode" />
+              <item name="6-responsive-images" type="462c0819:PsiDirectoryNode" />
+              <item name="begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
               <item name="day-2-grid" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -125,14 +158,29 @@
               <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
               <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
               <item name="day-2-grid" type="462c0819:PsiDirectoryNode" />
-              <item name="13-grid-nesting" type="462c0819:PsiDirectoryNode" />
+              <item name="15-pie-grid-you-try-it" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
               <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
               <item name="day-2-grid" type="462c0819:PsiDirectoryNode" />
-              <item name="13-grid-nesting" type="462c0819:PsiDirectoryNode" />
+              <item name="15-pie-grid-you-try-it" type="462c0819:PsiDirectoryNode" />
               <item name="begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
+              <item name="day-2-grid" type="462c0819:PsiDirectoryNode" />
+              <item name="15-pie-grid-you-try-it" type="462c0819:PsiDirectoryNode" />
+              <item name="begin" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
+              <item name="day-2-grid" type="462c0819:PsiDirectoryNode" />
+              <item name="15-pie-grid-you-try-it" type="462c0819:PsiDirectoryNode" />
+              <item name="end" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -179,7 +227,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12476000" />
+    <option name="totallyTimeSpent" value="14419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="461" y="23" width="1219" height="1027" extended-state="0" />
@@ -215,70 +263,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day-1-flexbox/3-flexbox-grid/begin/flexbox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="90" column="27" lean-forward="false" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-1-flexbox/2-flexbox-intro/flexbox notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-1-flexbox/2-flexbox-intro/Flexbox Properties.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-1-flexbox/3-flexbox-grid/end/css/flexbox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-1-flexbox/2-flexbox-intro/css/boxes.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-1-flexbox/3-flexbox-grid/begin/css/flexbox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-1-flexbox/4-pie-flexbox/begin/history.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="30" column="115" lean-forward="true" selection-start-line="30" selection-start-column="115" selection-end-line="30" selection-end-column="115" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-1-flexbox/4-pie-flexbox/begin/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="824">
-          <caret line="256" column="0" lean-forward="true" selection-start-line="256" selection-start-column="0" selection-end-line="256" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day-1-flexbox/5-image-gallery/begin/gallery.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -475,13 +459,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-1-flexbox/6-responsive-images/begin/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -496,14 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-1-flexbox/6-responsive-images/begin/image-exercise.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -593,6 +563,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-2-grid/13-grid-nesting/end/nesting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="39" column="8" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-2-grid/13-grid-nesting/end/nesting.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-2-grid/14-grid-offsets/begin/offsets.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-2-grid/14-grid-offsets/end/offsets.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="599">
@@ -601,10 +611,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.html">
+    <entry file="file://$PROJECT_DIR$/day-2-grid/14-grid-offsets/begin/offsets.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        <state relative-caret-position="645">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-2-grid/15-pie-grid-you-try-it/end/history.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="58" lean-forward="true" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-2-grid/15-pie-grid-you-try-it/begin/history.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-2-grid/15-pie-grid-you-try-it/begin/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="266" column="13" lean-forward="false" selection-start-line="266" selection-start-column="13" selection-end-line="266" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-1-flexbox/6-responsive-images/begin/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-1-flexbox/6-responsive-images/begin/image-exercise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="18" selection-end-column="12" />
           <folding />
         </state>
       </provider>

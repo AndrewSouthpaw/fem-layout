@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a07f89f8-b362-4583-9129-f06fba9cec2a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-2-grid/11-grid-grid/begin/css/grid.css" afterPath="$PROJECT_DIR$/day-2-grid/11-grid-grid/begin/css/grid.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-2-grid/11-grid-grid/begin/grid.html" afterPath="$PROJECT_DIR$/day-2-grid/11-grid-grid/begin/grid.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-2-grid/12-grid-area/begin/grid-area.css" afterPath="$PROJECT_DIR$/day-2-grid/12-grid-area/begin/grid-area.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.css" afterPath="$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.html" afterPath="$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="grid-area.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day-2-grid/12-grid-area/begin/grid-area.css">
+      <file leaf-file-name="nesting.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="23" />
+            <state relative-caret-position="599">
+              <caret line="55" column="45" lean-forward="false" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nesting.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -59,6 +68,8 @@
         <option value="$PROJECT_DIR$/day-2-grid/11-grid-grid/begin/grid.html" />
         <option value="$PROJECT_DIR$/day-2-grid/11-grid-grid/begin/css/grid.css" />
         <option value="$PROJECT_DIR$/day-2-grid/12-grid-area/begin/grid-area.css" />
+        <option value="$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.html" />
+        <option value="$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.css" />
       </list>
     </option>
   </component>
@@ -114,13 +125,13 @@
               <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
               <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
               <item name="day-2-grid" type="462c0819:PsiDirectoryNode" />
-              <item name="12-grid-area" type="462c0819:PsiDirectoryNode" />
+              <item name="13-grid-nesting" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fem-layout" type="b2602c69:ProjectViewProjectNode" />
               <item name="fem-layout" type="462c0819:PsiDirectoryNode" />
               <item name="day-2-grid" type="462c0819:PsiDirectoryNode" />
-              <item name="12-grid-area" type="462c0819:PsiDirectoryNode" />
+              <item name="13-grid-nesting" type="462c0819:PsiDirectoryNode" />
               <item name="begin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -168,7 +179,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12155000" />
+    <option name="totallyTimeSpent" value="12476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="461" y="23" width="1219" height="1027" extended-state="0" />
@@ -204,22 +215,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day-1-flexbox/1-intro-floats/instructions.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day-1-flexbox/2-flexbox-intro/boxes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day-1-flexbox/3-flexbox-grid/begin/flexbox.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="554">
@@ -594,6 +589,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="55" column="45" lean-forward="false" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-2-grid/13-grid-nesting/begin/nesting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
           <folding />
         </state>
       </provider>
